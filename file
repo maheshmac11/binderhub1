@@ -1,0 +1,6 @@
+Launching server...
+Server requested
+2023-03-01T18:41:18.933422Z [Normal] Successfully assigned prod/jupyter-maheshmac11-2dbinderhub1-2d9wvfkszl to gke-prod-user-202201-0769dbf8-hrnx
+2023-03-01T18:41:19Z [Normal] Container image "jupyterhub/mybinder.org-tc-init:2020.12.4-0.dev.git.4289.h140cef52" already present on machine
+2023-03-01T18:41:19Z [Normal] Created container tc-init
+2023-03-01T18:41:19Z [Normal] Started container tc-init
